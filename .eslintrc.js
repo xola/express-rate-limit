@@ -12,7 +12,7 @@ module.exports = {
     strict: "error",
   },
   parserOptions: {
-    ecmaVersion: 8
+    ecmaVersion: 8,
   },
   overrides: [
     {
